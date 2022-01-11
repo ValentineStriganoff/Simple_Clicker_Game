@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Simple_Clicker_Game/static/css/main.dc340800.css",
+    "main.js": "/Simple_Clicker_Game/static/js/main.854af355.js",
+    "static/js/787.5f6d7d0b.chunk.js": "/Simple_Clicker_Game/static/js/787.5f6d7d0b.chunk.js",
+    "index.html": "/Simple_Clicker_Game/index.html",
+    "main.dc340800.css.map": "/Simple_Clicker_Game/static/css/main.dc340800.css.map",
+    "main.854af355.js.map": "/Simple_Clicker_Game/static/js/main.854af355.js.map",
+    "787.5f6d7d0b.chunk.js.map": "/Simple_Clicker_Game/static/js/787.5f6d7d0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc340800.css",
+    "static/js/main.854af355.js"
+  ]
+}
